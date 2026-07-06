@@ -28,7 +28,7 @@ Será que aprendemos a andar de bicicleta sem nunca ter tentado pedalar?
 Será que andamos de skate sem nunca ter caído?  
 Será que aprendemos a surfar sem nunca ter pegado uma onda?
 
-**Só aprendemos fazendo e errando.** Errar faz parte do processo — é exatamente ali que o aprendizado acontece.
+**Nestas aulas, não espero que você acerte tudo de primeira.** Espero que você tente, erre, investigue, corrija e evolua. É exatamente assim que se aprende programação e é assim que profissionais da área evoluem ao longo da carreira.
 
 ---
 
